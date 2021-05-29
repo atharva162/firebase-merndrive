@@ -1,6 +1,6 @@
 # MERNDrive
 
-A mini web app enabled with Firebase (for authentication) allowing users to upload any type of file (jpg, jpeg, png, doc, pdf, docx, xlsx, xls) and access them anytime by downloading after going to their dashboard.
+A mini web app enabled with Firebase (for authentication) allowing users to upload any type of file (jpg, jpeg, png, doc, pdf, docx, xlsx, xls) and access them anytime by downloading them after going to their dashboard upon authentication.
 
 ## Features of this app:-
 
