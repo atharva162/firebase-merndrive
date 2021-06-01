@@ -9,7 +9,7 @@ A mini web app enabled with Firebase (for authentication) allowing users to uplo
 - Login/sign-in
 - Forgot password functionality
 - Logout
-- Dashboard redirection
+- Dashboard access
 
 ### File upload
 
